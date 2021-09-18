@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ijeong-won/Desktop/algorithm_study/LJW/c/stage7/3/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
